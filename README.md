@@ -1,5 +1,6 @@
 # First Innings Score Prediction - Indian Premier League (IPL)
 
+**You can checkout my notebook that contains Plotly visuals using [this link](https://nbviewer.org/github/gargaman001/IPL-First-Innings-Score-Prediction/blob/main/IPL%20First%20Innings%20Score%20Prediction.ipynb)**
 
 ### Problem statement:
 Build a model to predict the first innings score of any IPL match (In terms of range).
